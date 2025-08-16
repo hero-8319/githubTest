@@ -3,11 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("hello world 안녕하세요");
-
-        System.out.println("github 연습 중 입니다.");
-        
-        //왜 오류가 뜨는지 모르겠네
 
 
         }
