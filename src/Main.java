@@ -3,11 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("hello world 안녕하세요");
+        //이제부터 여기서 모든 작업을 진행하겠습니다 이곳은 hero1입니다.
+        //안녕하세요 반갑습니다
 
-        System.out.println("github 연습 중 입니다.");
-
-        //안녕하세요 지금 막 치고 있습니다
-        //dksfjslfflkafjlksfjklas;djlsafjls;jf
         }
     }
