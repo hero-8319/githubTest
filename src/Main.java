@@ -13,5 +13,7 @@ public class Main {
 
         //이거 받아서 또 신나게 작업 중
         // k이것도 작성 중이긴 함
+
+        System.out.println("이건 그냥 연습삼아 작성 중인 것입니다.");
         }
     }
