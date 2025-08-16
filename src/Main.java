@@ -10,5 +10,7 @@ public class Main {
         //안녕하세요 지금 막 치고 있습니다
         //gdgdgd
         //gdgdgd
+
+        //이거 받아서 또 신나게 작업 중
         }
     }
