@@ -15,5 +15,6 @@ public class Main {
         // k이것도 작성 중이긴 함
 
         System.out.println("이건 그냥 연습삼아 작성 중인 것입니다.");
+        System.out.println("test 브랜치를 만들었습니다.");
         }
     }
