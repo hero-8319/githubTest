@@ -7,6 +7,6 @@ public class Main {
 
         System.out.println("github 연습 중 입니다.");
 
-        //안녕하세요 지금 막 치고 있습니다
+        // 이걸 친 건 아무도 모름
         }
     }
