@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("github 연습 중 입니다.");
 
-        // 이걸 친 건 아무도 모름
+        // 안녕하세요 반갑습니다 저는 디벨롭 브랜치 입니다
+
         }
     }
