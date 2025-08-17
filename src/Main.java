@@ -3,8 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        //이제부터 여기서 모든 작업을 진행하겠습니다 이곳은 hero1입니다.
-        //안녕하세요 반갑습니다
-
+        System.out.println("이곳은 디벨롭 브랜치입니다.");
         }
     }
